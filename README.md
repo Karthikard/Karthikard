@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Karthikard
 - 👀 I’m interested in Sports
-- 🌱 I’m currently learning Front-End Development 
+- 🌱 I’m Front-End Developer 
+-  @  Budding java developer 
 - 💞️ I’m looking to collaborate as developer
 - 📫  Reach me through
 
